@@ -1,6 +1,7 @@
 # stock quote application
 # Author Kit Ho B
 
+# Change Date
 
 # a class which contains source information
 # should I inherit from source class, if oncc 18 is used
